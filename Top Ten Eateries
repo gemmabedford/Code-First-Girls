@@ -2,7 +2,12 @@
 <html lang="en">
 <html>
 <head>
+<<<<<<< HEAD
+  <title>TopTen</title>
+
+=======
   <title>Top Ten Durham Independent Eateries</title>
+>>>>>>> 69c3d261906f99ee52a3e2929626e17b14d2cf05
   <!-- Required meta tags -->
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,8 +15,16 @@
       <!-- Bootstrap CSS -->
           <link href='css/style.css' rel='stylesheet'>
           <link href='css/bootstrap.min.css' rel='stylesheet'>
+<<<<<<< HEAD
+      <!-- our CSS -->
+      <link href='css/style.css' rel='stylesheet'>
 
       <!--Nav bar -->
+          <nav>
+=======
+
+      <!--Nav bar -->
+>>>>>>> 69c3d261906f99ee52a3e2929626e17b14d2cf05
           <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -25,6 +38,11 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="about-us.html">About us</a>
+<<<<<<< HEAD
+                  <li class="nav-item active">
+                    <a class="nav-link" href="Top Ten Eateries">Top Ten Eateries <span class="sr-only">(current)</span></a>
+=======
+>>>>>>> 69c3d261906f99ee52a3e2929626e17b14d2cf05
                 </ul>
               <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="text" placeholder="Search">
@@ -32,6 +50,11 @@
               </form>
             </div>
           </nav>
+<<<<<<< HEAD
+</head>
+<body class="background">
+    <!-- Optional JavaScript -->
+=======
 
 
 </head>
@@ -68,12 +91,20 @@ Why they only take cash is beyond me but their sandwiches are great, the service
 
 
   <!-- Optional JavaScript -->
+>>>>>>> 69c3d261906f99ee52a3e2929626e17b14d2cf05
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<<<<<<< HEAD
+    <div class="header">
+      <h1>Top Ten</h1>
+      <p>Welcome to Top Ten! A website where we rank stuff. </p>
+    </div>
+=======
   <h1>Top Ten Durham Independent Eateries</h1>
 
 
+>>>>>>> 69c3d261906f99ee52a3e2929626e17b14d2cf05
 </body>
 </html>
