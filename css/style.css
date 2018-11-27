@@ -1,12 +1,13 @@
 
 .background {
-   background-color: #AFEEEE;
+   background-color: #ef939c;
 }
 
 table, th, td {
    text-align: center;
 }
 
-th {
+table, th {
+  font-color: #ef939c;
   font-size: 120%;
 }
