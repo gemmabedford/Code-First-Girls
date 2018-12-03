@@ -1,6 +1,11 @@
 
 .background {
-   background-color: #ef939c;
+   background-color: #fff1d7 ;
+}
+
+@font-face {
+font-family: knewave;
+src: url(css/knewave.ttf);
 }
 
 table, th, td {
@@ -14,7 +19,7 @@ table, th {
 /* Style the navigation menu */
 .navbar {
   width: 100%;
-  background-color: #555;
+  background-color: #ef939c;
   overflow: auto;
 }
 
@@ -22,21 +27,17 @@ table, th {
 .navbar a {
   float: left;
   padding: 12px;
-  color: white;
+  color: #d9d9d9;
   text-decoration: none;
   font-size: 17px;
   width: 33.33%;
   text-align: center;
+  font-family: Helvetica;
 }
 
 /* Add a background color on mouse-over */
 .navbar a:hover {
-  background-color: #000;
-}
-
-/* Style the current/active link */
-.navbar a.active {
-  background-color: #4CAF50;
+  background-color: #fff1d7;
 }
 
 /* Add responsiveness  on screens less than 500px, */
