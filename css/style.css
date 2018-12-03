@@ -8,6 +8,15 @@
   padding-right: 250px;
 }
 
+.colour{
+  color: #407d3c;
+  text-align: center;
+}
+
+.header{
+  color: #407d3c;
+}
+/*table on about us*/
 table, th, td {
    text-align: center;
 
@@ -26,11 +35,6 @@ table, td{
   width: 100%;
   background-color: #ef939c;
   overflow: auto;
-}
-
-.colour{
-  color: #407d3c;
-  text-align: center;
 }
 
 /* Navigation links */
