@@ -3,17 +3,17 @@
    background-color: #fff1d7 ;
 }
 
-@font-face {
-font-family: knewave;
-src: url(css/knewave.ttf);
+.text{
+  padding-left: 280px;
+  padding-right: 250px;
 }
 
 table, th, td {
    text-align: center;
+
 }
 
 table, th {
-  font-color: #ef939c;
   font-size: 120%;
 }
 /* Style the navigation menu */
