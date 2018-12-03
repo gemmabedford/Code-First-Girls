@@ -2,12 +2,12 @@
 .background {
    background-color: #fff1d7 ;
 }
-
+/* add nice padding to all the text*/
 .text{
   padding-left: 280px;
   padding-right: 250px;
 }
-
+/*for list headers*/
 .colour{
   color: #407d3c;
   text-align: center;
@@ -63,4 +63,14 @@ table, td{
     width: 100%;
     text-align: left; /*  text to be left-aligned on small screens */
   }
+}
+/*for images*/
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
 }
