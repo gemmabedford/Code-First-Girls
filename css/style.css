@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Knewave');
 
 .background {
    background-color: #fff1d7 ;
@@ -7,15 +8,18 @@
   padding-left: 280px;
   padding-right: 250px;
 }
-/*for list headers*/
+/*for about us*/
 .colour{
   color: #407d3c;
   text-align: center;
+  font-family: 'Knewave', monospace;
 }
-
+/*for list headers*/
 .header{
   color: #407d3c;
+  font-family: 'Knewave', monospace;
 }
+
 /*table on about us*/
 table, th, td {
    text-align: center;
@@ -43,11 +47,10 @@ table, td{
   padding: 12px;
   color: #d9d9d9;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   width: 33.33%;
   text-align: center;
-  font-family: Helvetica;
-  font-weight: bold;
+  font-family: 'Knewave', monospace;
 }
 
 /* Add a background color on mouse-over */
